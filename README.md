@@ -4,6 +4,22 @@
   <img src="https://api.visitorbadge.io/api/VisitorHit?user=naelxploit&repo=certificates&countColor=%237B1E7A" />
 </p><br>
 
-# 1. Dari Badan Meteorologi, Klimatologi, dan Geofisika ( BMKG )
+# 1. Dari Badan Meteorologi, Klimatologi, dan Geofisika ( bmkg.go.id )
 
 <img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/Bmkg.jpeg">
+
+# 2. Dari CV Cloud Aja ( cloudaja.id )
+
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/CloudAja.jpeg">
+
+# 3. Dari DISKOMINFO Provinsi Jawa Barat ( jabarprov.go.id )
+
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/JawaBarat.jpeg">
+
+# 4. Dari DISKOMINFO Kota Denpasar ( denpasarkota.go.id )
+
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/KotaDenpasar.jpeg">
+
+# 5. Dari DISKOMINFO Kota Pekalongan ( pekalongankota.go.id )
+
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/KotaPekalongan.jpeg">
