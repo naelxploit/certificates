@@ -6,4 +6,4 @@
 
 # 1. Dari Badan Meteorologi, Klimatologi, dan Geofisika ( BMKG )
 
-<img src="[https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/Bmkg.jpeg]">
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/Bmkg.jpeg">
