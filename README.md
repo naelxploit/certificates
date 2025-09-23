@@ -10,7 +10,7 @@
 
 # 2. Dari CV Cloud Aja ( cloudaja.id )
 
-<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/CloudAja.jpeg">
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/download.png">
 
 # 3. Dari DISKOMINFO Provinsi Jawa Barat ( jabarprov.go.id )
 
@@ -18,8 +18,8 @@
 
 # 4. Dari DISKOMINFO Kota Denpasar ( denpasarkota.go.id )
 
-<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/KotaDenpasar.jpeg">
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/download%20(2).png">
 
 # 5. Dari DISKOMINFO Kota Pekalongan ( pekalongankota.go.id )
 
-<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/KotaPekalongan.jpeg">
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/pekalongna.png">
