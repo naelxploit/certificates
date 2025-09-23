@@ -6,11 +6,11 @@
 
 # 1. Dari Badan Meteorologi, Klimatologi, dan Geofisika ( bmkg.go.id )
 
-<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/Bmkg.jpeg">
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/download.png">
 
 # 2. Dari CV Cloud Aja ( cloudaja.id )
 
-<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/download.png">
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/download%20(3).png">
 
 # 3. Dari DISKOMINFO Provinsi Jawa Barat ( jabarprov.go.id )
 
