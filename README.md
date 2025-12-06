@@ -26,4 +26,4 @@
 
 # 6. Dari DISKOMINFO Provinsi Jogjakarta ( jogjaprov.go.id )
 
-https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/Sertifikat%20Apresiasi%20-%20Nirvana%20Handika%20Putra%20(1).jpg
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/Sertifikat%20Apresiasi%20-%20Nirvana%20Handika%20Putra%20(1).jpg">
