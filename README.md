@@ -27,3 +27,7 @@
 # 6. Dari DISKOMINFO Provinsi Jogjakarta ( jogjaprov.go.id )
 
 <img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/Sertifikat%20Apresiasi%20-%20Nirvana%20Handika%20Putra%20(1).jpg">
+
+# 7. Dari DISKOMINFO Kabupaten Jombang ( jombangkab.go.id )
+
+<img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/Sertifikat%20Apresiasi%20Dinas%20Kominfo%20a.n.%20Nirvana%20Handika%20Putra.jpg">
