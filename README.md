@@ -23,3 +23,7 @@
 # 5. Dari DISKOMINFO Kota Pekalongan ( pekalongankota.go.id )
 
 <img src="https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/pekalongna.png">
+
+# 6. Dari DISKOMINFO Provinsi Jogjakarta ( jogjaprov.go.id )
+
+https://raw.githubusercontent.com/naelxploit/certificates/refs/heads/main/Sertifikat%20Apresiasi%20-%20Nirvana%20Handika%20Putra%20(1).jpg
